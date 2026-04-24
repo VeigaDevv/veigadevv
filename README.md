@@ -1,14 +1,8 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
-
-###
-
 <h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">"Transformando café em código e ideias em APIs. ☕💻<br><br>Minha jornada no desenvolvimento começou com a paixão pela lógica do Java. Hoje, foco em construir o "coração" das aplicações no Back-end, dominando o ecossistema Spring e garantindo que cada commit no meu Git seja um passo em direção à excelência técnica.<br><br>No meu horizonte, o objetivo é claro: dominar o Fullstack. Estou unindo a robustez do Java com a fluidez de interfaces em React e Angular, sempre sob o poder do TypeScript. Mas não paro na interface; meu plano de voo inclui a cultura DevOps, explorando o universo de Docker, Kubernetes e AWS para garantir que minhas aplicações não apenas funcionem, mas decolem em escala.<br><br>Seja modelando dados em PostgreSQL e MongoDB ou automatizando algo com Python por pura curiosidade, estou sempre em busca do próximo desafio.<br><br>Se você gosta de falar sobre arquitetura de sistemas, o futuro da nuvem ou apenas quer trocar uma ideia sobre Java, vamos nos conectar!"</p>
+<p align="left">Transformando café em código e ideias em APIs. ☕💻<br><br>Minha jornada no desenvolvimento começou com a paixão pela lógica do Java. Hoje, foco em construir o "coração" das aplicações no Back-end, dominando o ecossistema Spring e garantindo que cada commit no meu Git seja um passo em direção à excelência técnica.<br><br>No meu horizonte, o objetivo é claro: dominar o Fullstack. Estou unindo a robustez do Java com a fluidez de interfaces em React e Angular, sempre sob o poder do TypeScript. Mas não paro na interface; meu plano de voo inclui a cultura DevOps, explorando o universo de Docker, Kubernetes e AWS para garantir que minhas aplicações não apenas funcionem, mas decolem em escala.<br><br>Seja modelando dados em PostgreSQL e MongoDB ou automatizando algo com Python por pura curiosidade, estou sempre em busca do próximo desafio.<br><br>Se você gosta de falar sobre arquitetura de sistemas, o futuro da nuvem ou apenas quer trocar uma ideia sobre Java, vamos nos conectar!</p>
 
 ###
 
@@ -18,14 +12,6 @@
   <img src="https://streak-stats.demolab.com?user=veigadevv&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=veigadevv&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veigadevv/veigadevv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veigadevv/veigadevv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/veigadevv/veigadevv/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
@@ -52,15 +38,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
@@ -68,13 +52,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=veigadevv.veigadevv&left_color=darkred&right_color=indianred&left_text=Profile%20Views"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=veigadevv.veigadevv&left_color=darkblue&right_color=darkslateblue&left_text=Profile%20Views"  />
 </div>
 
 ###
