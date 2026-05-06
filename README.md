@@ -10,8 +10,6 @@
 
 ###
 
-<p align="left">Transformando café em código e ideias em APIs. ☕💻<br><br>Minha jornada no desenvolvimento começou com a paixão pela lógica do Java. Hoje, foco em construir o "coração" das aplicações no Back-end, dominando o ecossistema Spring e garantindo que cada commit no meu Git seja um passo em direção à excelência técnica.<br><br>No meu horizonte, o objetivo é claro: dominar o Fullstack. Estou unindo a robustez do Java com a fluidez de interfaces em React e Angular, sempre sob o poder do TypeScript. Mas não paro na interface; meu plano de voo inclui a cultura DevOps, explorando o universo de Docker, Kubernetes e AWS para garantir que minhas aplicações não apenas funcionem, mas decolem em escala.<br><br>Seja modelando dados em PostgreSQL e MongoDB ou automatizando algo com Python por pura curiosidade, estou sempre em busca do próximo desafio.<br><br>Se você gosta de falar sobre arquitetura de sistemas, o futuro da nuvem ou apenas quer trocar uma ideia sobre Java, vamos nos conectar!</p>
-
 ###
 
 <h2 align="left">Tecnologias</h2>
