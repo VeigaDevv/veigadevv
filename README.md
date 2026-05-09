@@ -55,17 +55,22 @@
 ###
 
 <div align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=veigadevv&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  
-  <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veigadevv&layout=compact&theme=radical" height="150" alt="languages graph" />
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=veigadevv&theme=radical&hide_border=false" height="150" alt="streak graph" />
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veigadevv&theme=react-dark" height="300" alt="activity graph" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=veigadevv&show_icons=true&title_color=ff0055&icon_color=ff0055&text_color=ffffff&bg_color=0D1117&count_private=true&cache_seconds=1800" height="150" alt="stats graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=veigadevv&layout=compact&title_color=ff0055&text_color=ffffff&bg_color=0D1117&cache_seconds=1800" height="150" alt="languages graph" />
+      </td>
+      <td>
+        <!--Corrigido -->
+        <img src="https://streak-stats.demolab.com?user=veigadevv&stroke=ff0055&fire=ff0055&ring=ff0055&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&background=0D1117&hide_border=false&cache_seconds=1800" height="150" alt="streak graph" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veigadevv&theme=react&bg_color=0D1117&color=ff0055&hide_border=false&cache_seconds=1800" height="300" alt="activity graph" />
 </div>
 
 ###
