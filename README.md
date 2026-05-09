@@ -55,10 +55,17 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/veigadevv/veigadevv/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/veigadevv/veigadevv/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=veigadevv&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/veigadevv/veigadevv/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=veigadevv&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  
+  <!-- Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veigadevv&layout=compact&theme=radical" height="150" alt="languages graph" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=veigadevv&theme=radical&hide_border=false" height="150" alt="streak graph" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veigadevv&theme=react-dark" height="300" alt="activity graph" />
 </div>
 
 ###
