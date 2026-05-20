@@ -51,10 +51,6 @@
 ###
 <h2 align="left">Estatísticas</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/veigadevv/veigadevv/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=veigadevv&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/veigadevv/veigadevv/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
+
 
 ###
