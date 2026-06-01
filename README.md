@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> desafios complexos em soluções escaláveis.☕💻
+<p align="left">Transformando desafios complexos em soluções escaláveis.☕💻
 
 Desenvolvedor Full-Stack apaixonado pela solidez do Java/Spring no back-end e pela experiência do usuário construída com React, Angular e TypeScript. Minha missão é unir a segurança de uma arquitetura robusta com a agilidade de um front-end moderno.
 
