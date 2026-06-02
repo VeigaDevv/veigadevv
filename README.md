@@ -72,9 +72,6 @@ Se você respira arquitetura de sistemas, nuvem ou quer trocar experiências sob
 
 <h2 align="left">Estatísticas</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/veigadevv/veigadevv/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=veigadevv&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
 
 ###
