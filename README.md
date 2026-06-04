@@ -73,8 +73,8 @@ Se você respira arquitetura de sistemas, nuvem ou quer trocar experiências sob
 <h2 align="left">Estatísticas</h2>
 
 <div align="center">
-  <!-- Estatísticas Gerais (Instância alternativa mais estável) -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=veigadevv&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <!-- Estatísticas Gerais (Usando uma API alternativa super estável) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=veigadevv&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
   
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=veigadevv&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
