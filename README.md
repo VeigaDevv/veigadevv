@@ -72,19 +72,6 @@ Se você respira arquitetura de sistemas, nuvem ou quer trocar experiências sob
 
 <h2 align="left">Estatísticas</h2>
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=veigadevv&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-        <br />
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=veigadevv&layout=compact&theme=radical&hide=html,css" height="150" alt="languages graph" />
-      </td>
-      <td valign="middle">
-        <img src="https://streak-stats.demolab.com?user=veigadevv&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="400" alt="streak graph" />
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 ###
